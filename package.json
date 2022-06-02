@@ -1,0 +1,19 @@
+{
+  "name": "msapp2",
+  "version": "1.0.0",
+  "description": "Crud Operation",
+  "main": "index.js",
+  "scripts": {
+    "start":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prafullitaBharambe/EmpApp.git"
+  },
+  "author": "Prafullita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prafullitaBharambe/EmpApp/issues"
+  },
+  "homepage": "https://github.com/prafullitaBharambe/EmpApp#readme"
+}
